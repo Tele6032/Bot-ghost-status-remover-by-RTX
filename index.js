@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Regarde la version 1.0.3","Regarde le développement avancer","Bot créer par Tele6032"];
 
 
 let currentIndex = 0;
